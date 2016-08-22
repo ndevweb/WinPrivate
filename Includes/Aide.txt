@@ -1,7 +1,9 @@
 {**************************************************************************************************}
 {                                                                                                  }
-{ Last modified: $Date::                                                                         $ }
-{ Revision:      $Rev::                                                                          $ }
-{ Author:        $Author::                                                                       $ }
+{ Date Create:   $Date:: _DATA_CREATE_                                                             }
+{ Last modified: $Date:: _DATA_MODIFICATION_                                                       }
+{ Revision:      $Rev::  _REVISION_                                                                }
+{ Author:        $Author:: _AUTEUR_                                                                }
 {                                                                                                  }
+{ https://github.com/project-jedi                                                                  }
 {**************************************************************************************************}
